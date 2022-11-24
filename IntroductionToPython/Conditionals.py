@@ -17,7 +17,6 @@ print(you_won)
 # Variable assignment (soring the name)
 name = "Iqra"
 # Logical expression (checks if it's true or false)
-name == "Iqra"
 
 # Boolean - true or false
 boolean = False
