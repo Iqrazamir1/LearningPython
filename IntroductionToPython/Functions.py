@@ -1,4 +1,7 @@
-# Function 
+# Function is a reusable block of code defined using 'def' that performs
+#   a specific tast by taking input, priccessing it and often returning a 
+#   result.
+
 calculation_to_units = 24
 name_of_unit = "hours"
 
@@ -7,7 +10,11 @@ def days_to_units():
 
 days_to_units()   
 
-# Function Parameters
+# Function with Parameters is a reusable block of code that accepts 
+#   input values, known as parameters or arguments, when it's called. 
+#   These parameters provide data for the function to work with, allowing 
+#   it to perform tasks using the provided values.
+
 calculation_to_units = 24
 name_of_unit = "hours"
 
@@ -17,7 +24,7 @@ def days_to_units(number_of_days):
 days_to_units(25) 
 days_to_units(35) 
 
-# Function Two Parameters
+# Function - Two Parameters
 calculation_to_units = 24
 name_of_unit = "hours"
 

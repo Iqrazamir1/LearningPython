@@ -1,4 +1,9 @@
-# While loop example 1
+# For Loop is a control flow statement used to iterate over a sequence 
+#   such as list, tuple or string. 
+# While loop is  a control flow that repeatedly executes a block of code
+#   as long as a specified condition is true.
+
+#  While loop example 1
 from random import randint
 name = "Iqra"
 
